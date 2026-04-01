@@ -1,0 +1,23 @@
+{
+  "hooks": {
+    "PreCompact": [
+      {
+        "type": "command",
+        "command": ".github/hooks/save-before-compact.sh",
+        "timeout": 10
+      }
+    ],
+    "SubagentStart": [
+      {
+        "type": "command",
+        "command": ".github/hooks/log-subagent.sh"
+      }
+    ],
+    "SubagentStop": [
+      {
+        "type": "command",
+        "command": ".github/hooks/log-subagent-end.sh"
+      }
+    ]
+  }
+}

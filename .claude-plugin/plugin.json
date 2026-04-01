@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot",
+  "description": "Spring Boot plugin for GitHub Copilot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Juan Antonio Mora",
+    "email": "juananmora@hotmail.com"
+  }
+}

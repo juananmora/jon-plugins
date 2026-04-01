@@ -1,0 +1,27 @@
+{
+  "name": "jon-plugins",
+  "metadata": {
+    "description": "Jon plugins",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "juananmora",
+    "email": "support@jon.com"
+  },
+  "author": {
+    "name": "Juan Antonio Mora"
+  },
+  "plugins": [
+    {
+      "name": "spring-boot",
+      "description": "Spring Boot plugin for GitHub Copilot.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Juan Antonio Mora",
+        "email": "juananmora@hotmail.com"
+      },
+      "source": ".",
+      "category": "development"
+    }
+  ]
+}

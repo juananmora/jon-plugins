@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "workiq": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microsoft/workiq",
+        "mcp"
+      ],
+      "tools": [
+        "*"
+      ]
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest"
+      ],
+      "tools": [
+        "*"
+      ]
+    },
+    "microsoftdocs/mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote@latest",
+        "https://learn.microsoft.com/api/mcp"
+      ],
+      "tools": [
+        "*"
+      ]
+    },
+    "upstash/context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote@latest",
+        "https://mcp.context7.com/mcp",
+        "--header"
+      ],
+      "tools": [
+        "*"
+      ]
+    }
+  }
+}

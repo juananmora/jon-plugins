@@ -1,0 +1,3 @@
+display_name: "APX HTML Docs Generator"
+short_description: "Regenera documentación HTML APX desde Markdown con navegación homogénea y saneamiento Mermaid"
+default_prompt: "Aplica APX HTML Docs Generator para regenerar html/ desde docs/, usando el script del skill y respetando su estructura de categorías."

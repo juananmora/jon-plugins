@@ -1,0 +1,3 @@
+﻿display_name: "APX Unit Test"
+short_description: "Reglas y flujo para crear, ejecutar y reportar pruebas unitarias/integradas APX con JUnit, Mockito y Jacoco"
+default_prompt: "Aplica las directrices de APX Unit Test. Usa las referencias y assets del skill cuando apliquen."
