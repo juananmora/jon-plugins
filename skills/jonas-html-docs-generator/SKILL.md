@@ -1,5 +1,5 @@
 ---
-name: apx-html-docs-generator
+name: jonas-html-docs-generator
 description: Generación determinista de documentación HTML APX a partir de Markdown en `docs/` con estructura BBVA homogénea y saneamiento de bloques Mermaid para evitar errores por caracteres conflictivos. Usar cuando Codex necesite (1) regenerar `html/` completo o por categoría desde `docs/functional`, `docs/api` o `docs/architecture`, (2) estandarizar navegación/plantilla visual en todas las páginas, o (3) corregir fallos de renderizado Mermaid durante la publicación de documentación.
 ---
 

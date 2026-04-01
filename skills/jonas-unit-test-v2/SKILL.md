@@ -1,5 +1,5 @@
 ---
-name: apx-unit-test-v2
+name: jonas-unit-test-v2
 description: Genera y ejecuta tests unitarios APX con JUnit 5, Mockito y JaCoCo. Cobertura mínima 80%. Genera informe de resultados mediante script Python. Úsala cuando escribas, ejecutes o revises tests en proyectos APX, Java o Spring Boot.
 ---
 
