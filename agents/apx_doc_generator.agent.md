@@ -1,5 +1,5 @@
 ---
-name: jon-apx_doc_generator
+name: jonas-apx_doc_generator
 description: Genera documentación funcional y de arquitectura completa para proyectos APX
 tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/runCommand', 'execute/getTerminalOutput', 'execute/runInTerminal', 'read/terminalSelection', 'read/terminalLastCommand', 'read/readFile', 'agent', 'edit', 'search', 'atlassian/atlassian-mcp-server/search', 'chrome-devtools/*', 'github/*']
 ---

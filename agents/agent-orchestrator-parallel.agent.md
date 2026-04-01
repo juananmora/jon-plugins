@@ -1,4 +1,5 @@
 ---
+name: jonas_agent_orchestrator_parallel
 description: 'Orquestador APX Paralelo: Plan -> Documentación -> Código -> Calidad+Tests en paralelo'
 tools: [execute/getTerminalOutput, execute/createAndRunTask, execute/testFailure, execute/runInTerminal, read/terminalSelection, read/terminalLastCommand, read/problems, read/readFile, agent, edit, search, web, atlassian/atlassian-mcp-server/fetch, atlassian/atlassian-mcp-server/search, 'github/*', todo]
 ---

@@ -1,5 +1,5 @@
 ---
-name: apx_code_generator-local
+name: jonas_code_generator-local
 description: FC Agente especializado en generar código para componentes BBVA APX usando Java, Springboot y patrones de BBVA APX Framework
 tools:
   - vscode/getProjectSetupInfo

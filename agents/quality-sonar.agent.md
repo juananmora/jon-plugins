@@ -1,5 +1,5 @@
 ---
-name: quality-sonarqube
+name: jonas-quality-sonarqube
 description: 'Agente especializado en análisis de calidad de código con SonarQube - evalúa el estado actual, genera informes detallados y proporciona recomendaciones de mejora.'
 tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'agent', 'sonarsource.sonarlint-vscode/sonarqube_getPotentialSecurityIssues', 'sonarsource.sonarlint-vscode/sonarqube_excludeFiles', 'sonarsource.sonarlint-vscode/sonarqube_setUpConnectedMode', 'sonarsource.sonarlint-vscode/sonarqube_analyzeFile', 'todo']
 ---
